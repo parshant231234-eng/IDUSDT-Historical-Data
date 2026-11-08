@@ -8,9 +8,9 @@ An institutional-grade, open-source archive of cleaned, standardized, and valida
 - **Symbol:** `IDUSDT`
 - **Market:** Binance Spot
 - **Timeframe:** 1 Minute (`1m`)
-- **Total Months:** `44` months
-- **Total Candles:** `1,895,680` 1-minute candles
-- **Historical Range:** `2023-03-22 12:00:00` to `2026-10-28 23:59:00` (UTC)
+- **Total Months:** `45` months
+- **Total Candles:** `1,910,080` 1-minute candles
+- **Historical Range:** `2023-03-22 12:00:00` to `2026-11-07 23:59:00` (UTC)
 - **Schema:** `timestamp, datetime_utc, open, high, low, close, volume, quote_volume, trade_count, taker_buy_volume, taker_buy_quote_volume`
 
 ---
